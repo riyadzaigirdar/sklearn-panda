@@ -1,5 +1,6 @@
 # Tree
-    ![alt text](https://github.com/riyadzaigirdar/sklearn-panda/blob/develop/tree.png?raw=true)
+
+![alt text](https://github.com/riyadzaigirdar/sklearn-panda/blob/develop/tree.png?raw=true)
 
 
 # Shortcuts
