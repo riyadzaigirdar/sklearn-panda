@@ -10,7 +10,7 @@ model_object = DecisionTreeClassifier()
 x_train, x_test, y_train, y_test = train_test_split(
     df.drop(labels=["genre"], axis=1), df["genre"], test_size=0.2)
 
-# axis 1 mean drop in y axis(column)(column namd) and axis 0 means drop in y axis(row)(index)
+# axis 1 mean drop in y axis(column)(column namd) and axis 0 means drop in x axis(row)(index)
 # test size 0.2 means 80% of data used for training and 20% will be used for test
 
 
